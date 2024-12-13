@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ModuleProject\\KeyboardLayout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896698EF-E9A4-42C6-A1B8-420057293FF5}|KeyboardLayout\\KeyboardLayout.csproj|d:\\projects\\moduleproject\\keyboardlayout\\keyboardlayout\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896698EF-E9A4-42C6-A1B8-420057293FF5}|KeyboardLayout\\KeyboardLayout.csproj|solutionrelative:keyboardlayout\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56486F01-78A9-4140-96A7-6968FF5A4FE0}|VirtualKeyboard\\VirtualKeyboard.csproj|d:\\projects\\moduleproject\\keyboardlayout\\virtualkeyboard\\models\\koreancomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56486F01-78A9-4140-96A7-6968FF5A4FE0}|VirtualKeyboard\\VirtualKeyboard.csproj|solutionrelative:virtualkeyboard\\models\\koreancomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56486F01-78A9-4140-96A7-6968FF5A4FE0}|VirtualKeyboard\\VirtualKeyboard.csproj|d:\\projects\\moduleproject\\keyboardlayout\\virtualkeyboard\\models\\keyboardevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56486F01-78A9-4140-96A7-6968FF5A4FE0}|VirtualKeyboard\\VirtualKeyboard.csproj|solutionrelative:virtualkeyboard\\models\\keyboardevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56486F01-78A9-4140-96A7-6968FF5A4FE0}|VirtualKeyboard\\VirtualKeyboard.csproj|d:\\projects\\moduleproject\\keyboardlayout\\virtualkeyboard\\view\\virtualkeyboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56486F01-78A9-4140-96A7-6968FF5A4FE0}|VirtualKeyboard\\VirtualKeyboard.csproj|solutionrelative:virtualkeyboard\\view\\virtualkeyboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\ModuleProject\\KeyboardLayout\\KeyboardLayout\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeyboardLayout\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\ModuleProject\\KeyboardLayout\\KeyboardLayout\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KeyboardLayout\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:51:54.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyboardEvents.cs",
+              "DocumentMoniker": "D:\\Projects\\ModuleProject\\KeyboardLayout\\VirtualKeyboard\\Models\\KeyboardEvents.cs",
+              "RelativeDocumentMoniker": "VirtualKeyboard\\Models\\KeyboardEvents.cs",
+              "ToolTip": "D:\\Projects\\ModuleProject\\KeyboardLayout\\VirtualKeyboard\\Models\\KeyboardEvents.cs",
+              "RelativeToolTip": "VirtualKeyboard\\Models\\KeyboardEvents.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:51:26.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VirtualKeyboard.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\ModuleProject\\KeyboardLayout\\VirtualKeyboard\\View\\VirtualKeyboard.xaml.cs",
+              "RelativeDocumentMoniker": "VirtualKeyboard\\View\\VirtualKeyboard.xaml.cs",
+              "ToolTip": "D:\\Projects\\ModuleProject\\KeyboardLayout\\VirtualKeyboard\\View\\VirtualKeyboard.xaml.cs",
+              "RelativeToolTip": "VirtualKeyboard\\View\\VirtualKeyboard.xaml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:45:55.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KoreanComposer.cs",
+              "DocumentMoniker": "D:\\Projects\\ModuleProject\\KeyboardLayout\\VirtualKeyboard\\Models\\KoreanComposer.cs",
+              "RelativeDocumentMoniker": "VirtualKeyboard\\Models\\KoreanComposer.cs",
+              "ToolTip": "D:\\Projects\\ModuleProject\\KeyboardLayout\\VirtualKeyboard\\Models\\KoreanComposer.cs",
+              "RelativeToolTip": "VirtualKeyboard\\Models\\KoreanComposer.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAUwPIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:45:54.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
