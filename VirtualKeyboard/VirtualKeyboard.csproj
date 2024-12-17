@@ -5,10 +5,33 @@
 		<UseWPF>true</UseWPF>
 		<RootNamespace>VirtualKeyboard</RootNamespace>
 		<AssemblyName>VirtualKeyboard</AssemblyName>
+		<Authors>Jay9011</Authors>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Title>$(AssemblyName)</Title>
+		<Company>SECUiDEA</Company>
+		<Description>한국어 지원 가상 키보드. 그런데 UserControl을 곁들인...</Description>
+		<RepositoryUrl>https://github.com/Jay9011/Module-VirtualKeyboard</RepositoryUrl>
+		<PackageReadmeFile>Readme.md</PackageReadmeFile>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>keyboard, virtual</PackageTags>
+		<NeutralLanguage>ko</NeutralLanguage>
+		<AssemblyVersion>$(VersionPrefix)</AssemblyVersion>
+		<FileVersion>$(VersionPrefix)</FileVersion>
+		<Version>1.0.1-alpha</Version>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Include="..\Readme.md">
+	    <Pack>True</Pack>
+	    <PackagePath>\</PackagePath>
+	  </None>
+	</ItemGroup>
 
 	<ItemGroup>
 		<PackageReference Include="System.ValueTuple" Version="4.5.0" />
 	</ItemGroup>
 
+	<Target Name="PushNuGetPackage" AfterTargets="Pack">
+		<Exec Command="dotnet nuget push $(OutputPath)$(AssemblyName).$(Version).nupkg --source Local" />
+	</Target>
 </Project>
